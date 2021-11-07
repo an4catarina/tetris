@@ -6,7 +6,7 @@ O tempo de criação do jogo durou mais ou menos 1 mês, fiz ele com o auxílio 
 Resumindo, a construção desse jogo levou algumas etapas:  
 1- Pesquisa e estudos sobre C# e a criação de Tetris com o Unity;   
 2- Definição dos 7 Tetraminós (as peças do jogo) e da grade de fundo como Prefabs;  
-3- Criação de dois scripts, um chamado Tetraminós e o segundo chamado de Grid;  
+3- Criação de dois scripts, um chamado "Tetraminós" e o segundo chamado "Jogo" no qual foi linkado a grade de fundo;  
 4- O foco principal foi no Script dos Tetraminós, comecei fazendo com que as peças se movam e respeitam o limite da grade;  
 5- Depois de estabelecer o limite eu criei mais um script que define onde as peças vão fazer o Spawn;  
 6- Criação do sistema de colisão das peças;  
