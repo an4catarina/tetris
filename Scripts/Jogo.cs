@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Jogo : MonoBehaviour
 {
+
  public static int altura = 20;
  public static int largura = 10;
 
