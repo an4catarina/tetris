@@ -25,6 +25,5 @@ A parte mais desafiadora na produção desse jogo definitivamente foi a criaçã
 Para abrir o jogo basta baixar a pasta Tetris_Mac_Windows.zip e descompactá-la. Se você estiver em um windows, basta rodar o arquive .exe em sua respectiva pasta, se você estiver em um macOS basta abrir o único arquivo disponível! 
   
 Lembrando que eu estou aprendendo, qualquer feedback, ajuda ou opinião são bem vindos! :V   
-Aqui está um pouquinho do jogo:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/89619442/140665569-de7ab654-8441-45a0-93cd-862c04e4131f.gif)
