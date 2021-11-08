@@ -1,3 +1,5 @@
+//Aqui está a parte mais importante do jogo, toda a funcionalidade do mesmo está contido nesse script;
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -18,7 +20,8 @@ public class Tetraminós : MonoBehaviour
 
     void Update()
     {
-        //movimentação das peças
+        //Definição das teclas e movimentação das peças
+        
          if (Input.GetKeyDown(KeyCode.RightArrow))
         {
             transform.position += new Vector3(1, 0, 0);
@@ -65,7 +68,7 @@ void AddToGrid()
     }
 }
 
-
+//Código que confere quando as linhas estão cheias ou não;
 public bool linhaCheia(int A)
     {
         for (int B = 0; B < largura; B++)
