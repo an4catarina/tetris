@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Jogo : MonoBehaviour
 {
+//O código contido aqui, está linkado na grade de fundo. O objetivo dele é definir o espaço no qual as peças podem se mover.
 
  public static int altura = 20;
  public static int largura = 10;
