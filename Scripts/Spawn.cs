@@ -5,7 +5,9 @@ using UnityEngine;
 public class Spawn : MonoBehaviour
 {
     public GameObject[] Tetraminós;
-    // Start is called before the first frame update
+    
+    // Esse script fazem as peças spawnar no jogo;
+    
     void Start()
     {
         NovoTetramino();
